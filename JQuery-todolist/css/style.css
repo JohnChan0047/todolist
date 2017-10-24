@@ -1,0 +1,19 @@
+body{
+    background-image: url("../image/1.jpg");
+}
+
+#c1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin: 5px 0px;
+    width: 230.5px;
+    height: 30px;
+}
+textarea{
+    /*margin: 5px 0px;*/
+    margin-top: 4px;
+    width: 230.5px;
+}
